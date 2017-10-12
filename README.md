@@ -4,10 +4,12 @@
 My name is Eva Nangalwe Nørtoft. 
 My email is _evan2304@hstat.org_
 * I attend HSTAT.
+  * I am a Junior
+  * I am a part of SEP 11
 * I am 16 years old
 * My birthday is February 23rd. 
 * I live in Brooklyn
-* I am a Junior.   
+
 ---
 ##### My schedule:
 1. period: **Gym**  
