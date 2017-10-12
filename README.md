@@ -1,6 +1,6 @@
 ### About Me
 ##### The basics:  
-My name is Eva Nangalwe Noertoft. 
+My name is Eva Nangalwe Nørtoft. 
 My email is _evan2304@hstat.org_
 * I attend HSTAT.
 * I am 16 years old
