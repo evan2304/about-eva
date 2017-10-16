@@ -21,4 +21,5 @@ My email is _evan2304@hstat.org_
 7. period: **AP Bio**  
 8. period: **Bio Lab or Study** 
 ---
-[_**Click here to go my portfolio!**_](https://sites.google.com/a/hstat.org/evan2304sep11/)
+[_**Click here to go my portfolio!**_](https://sites.google.com/a/hstat.org/evan2304sep11/)  
+reviewed by David Gonzalez
